@@ -1,3 +1,8 @@
+* {
+
+    background-image: url(blue-sky.jpg);
+}
+
 p {
     color: red;
 }
